@@ -4,6 +4,8 @@
 // @category Map Tiles
 // @version 1.0
 // @description TopoMap Layer.
+// @downloadURL https://github.com/finnito/IITC-OpenTopoMap-Layer/raw/master/openTopoMap.user.js
+// @updateURL https://github.com/finnito/IITC-OpenTopoMap-Layer/raw/master/openTopoMap.user.js
 // @include http://*ingress.com/intel*
 // @match http://*.ingress.com/intel*
 // @include https://*.ingress.com/intel*
