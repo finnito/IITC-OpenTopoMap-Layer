@@ -1,2 +1,2 @@
 # IITC-OpenTopoMap-Layer
-IITC Open TopopMap Layer.
+Install link: https://github.com/finnito/IITC-OpenTopoMap-Layer/raw/master/openTopoMap.user.js
